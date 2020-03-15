@@ -1,0 +1,26 @@
+{
+  "name": "simple-fivem-api",
+  "version": "1.0.3",
+  "description": "Simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CwhiteKJ/simple-fivem-api"
+  },
+  "keywords": [
+    "FiveM"
+  ],
+  "author": "White_KJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CwhiteKJ/simple-fivem-api/issues"
+  },
+  "homepage": "https://github.com/CwhiteKJ/simple-fivem-api/blob/master/README.md",
+  "dependencies": {
+    "request": "^2.85.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
