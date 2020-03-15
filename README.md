@@ -6,5 +6,5 @@
 ```js
 const fivem = require('simple-fivem-api')
 
-fivem.getPlayers("ip:port").then((server) => console.log(server);
+fivem.getPlayers("ip:port").then((server) => console.log(server));
 ```
